@@ -42,7 +42,6 @@ ConvNeXt-Tiny surpasses the original paper's best result by **+4.93 percentage p
 
 ```
 ├── SortSmart_Notebook.ipynb          # Main notebook (Part 1)
-├── report.pdf                        # Critical reflection (Part 2)
 └── README.md                         # This file
 ```
 
