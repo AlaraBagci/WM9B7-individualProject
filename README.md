@@ -11,7 +11,7 @@ This project addresses automated waste material classification by comparing thre
 | Baseline CNN (scratch) | 33.61% | 31.73% | 1.2M | 4.6 MB | Reference only |
 | EfficientNet-B0 | 73.11% | 73.17% | 4.0M | 15.3 MB | Mobile app |
 | **ConvNeXt-Tiny** | **94.12%** | **94.24%** | 27.8M | 106.2 MB | MRF / industrial edge |
-| *Paper best (Inception V3)* | *89.19%* | *90.25%* | *~24M* | *~96 MB* | *Single et al. (2023)* |
+| *Paper best (Inception V3)* | *89.19%* | *90.25%* | *~24M* | *~96 MB* | *(Single et al., 2023)* |
 
 ConvNeXt-Tiny surpasses the original paper's best result by **+4.93 percentage points**.
 
