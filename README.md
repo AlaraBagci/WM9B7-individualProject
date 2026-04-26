@@ -49,6 +49,7 @@ ConvNeXt-Tiny surpasses the original paper's best result by **+4.93 percentage p
 ├── SortSmart_Notebook.ipynb          # Main notebook (Part 1)
 ├── SortSmart_Notebook_with_outputs.ipynb  # Original Colab notebook with outputs
 └── README.md                         # This file
+└── AIDL_report_alara.pdf             # critical reflection report
 ```
 
 ## Dataset
